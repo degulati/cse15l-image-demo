@@ -1,3 +1,4 @@
 Hello, 15L!
 
-![Bear-Statue](./bear-sculpture.png)
+Outside the CSE building stands:![A Bear Sculpture]
+(./bear-sculpture.png)
