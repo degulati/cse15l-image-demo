@@ -1,3 +1,3 @@
 Hello, 15L!
 
-![caption](./bear-sculpture.png)
+![Bear Statue](./bear-sculpture.png)
