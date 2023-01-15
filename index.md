@@ -1,4 +1,4 @@
 Hello, 15L!
 
 Say hi to our UCSD Mascot:
-![King Triton!](./king-triton.jpg)
+<!-- ![King Triton!](./king-triton.jpg) -->
